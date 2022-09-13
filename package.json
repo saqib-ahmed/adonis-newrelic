@@ -1,7 +1,7 @@
 {
   "git": "git@github.com:saqib-ahmed/adonis-newrelic.git",
   "name": "@saqibahmed515/adonis-newrelic",
-  "version": "0.0.6",
+  "version": "0.1.0",
   "description": "NewRelic addon for AdonisJs",
   "main": "index.js",
   "scripts": {
