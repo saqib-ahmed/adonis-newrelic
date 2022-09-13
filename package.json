@@ -18,13 +18,13 @@
   "author": "@frubana",
   "license": "",
   "devDependencies": {
-    "@adonisjs/sink": "^1.0.13",
-    "japa": "^1.0.5",
+    "@adonisjs/sink": "^5.4.0",
+    "japa": "^4.0.0",
     "japa-cli": "^1.0.1",
-    "standard": "^10.0.3"
+    "standard": "^17.0.0"
   },
   "dependencies": {
-    "lodash": "^4.17.15",
-    "newrelic": "^5.11.0"
+    "lodash": "^4.17.21",
+    "newrelic": "^9.0.3"
   }
 }
